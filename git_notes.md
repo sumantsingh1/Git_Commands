@@ -26,4 +26,46 @@
 ## Git Architecture
 ![image alt](https://github.com/sumantsingh1/Git_Commands/blob/f0b4495fe00cd0fcfde49d2810452e724a5696cf/Images/git_architecture.PNG)
 
+## Setting Up a Central repository
+### Central repositories could be set up in two ways,
+* Hosted (Means installing Gitserver in our servers)
+* Using one of the providers
+  * GitHub
+  * Gitlab
+  * BitBucket
+  * CodeCommit AWS
+## Create Account in Github (Git Server Setup)
+ * Go to [github.com](https://github.com)
+ * Click on Sign Up
+ * Provide email ID
+ * Set password
+ * Go to your inbox and click the link and activate the account
+## Create Git remote repository for practice
+ * Goto Github.com and → Click on “+” icon in the top right and create repository.
+
+## Install git client on your laptops
+ * We can either install CLI(Command Line Interface) or GUI (Graphical User Interface)
+ * We are going to use CLI throught Git course
+   * Install gitbash
+      * [git-scm.com](https://www.git-scm.com/downloads)
+## Configure GitBash (One time activity)
+  * Open Git Bash
+       * Open from start menu by searching gitbash
+       * Another way is Right click → More Options → Open Gitbash here
+  * Configure Email & User Name
+    * This information is recorded when you commit
+    * Inside gitbash run following commands
+        * git config --global user.name "Sumant Singh"
+        * git config --global user.email "sumant.singh@gmail.com"
+     
+## Install Visual Studio Code (Most DevOps & Cloud engineers use this)
+   ### Follow instructions from this
+        [Download Link](https://code.visualstudio.com/download)
+
+
+
+
+
+
+
 
