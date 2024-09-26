@@ -60,7 +60,7 @@
      
 ## Install Visual Studio Code (Most DevOps & Cloud engineers use this)
    ### Follow instructions from this
-        [Download Link](https://code.visualstudio.com/download)
+   * [Download Link](https://code.visualstudio.com/download)
 
 
 
