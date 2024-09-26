@@ -24,6 +24,6 @@
 * Mercurial
 
 ## Git Architecture
-
+![image alt](https://github.com/sumantsingh1/Git_Commands/blob/f0b4495fe00cd0fcfde49d2810452e724a5696cf/Images/git_architecture.PNG)
 
 
